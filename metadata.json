@@ -1,0 +1,9 @@
+{
+  "name": "OmniRepurpose - AI Content Multi-Channel Publishing Pipeline",
+  "description": "Enterprise-grade content repurposing engine: upload audio, video, or text to transcribe, extract core insights, apply style voice memory, and generate LinkedIn posts, Twitter threads, Instagram carousels, newsletters, and short video scripts with human approval and scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
